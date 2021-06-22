@@ -1,1 +1,1 @@
-# happy-garden-wiring-diagram
+# Happy GardenPI wiring diagram
