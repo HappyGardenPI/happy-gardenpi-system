@@ -10,7 +10,7 @@ Thsi project contain all data fo build theredfore configure Happi GardenPI
 ## Project structure
 
 ## Install OS
-[Installing operating system images](https://www.raspberrypi.org/documentation/installation/installing-images) by [Raspberry Pi Imager](https://www.raspberrypi.org/software/) then install 
+[Installing operating system images](https://www.raspberrypi.org/documentation/installation/installing-images) by [Raspberry Pi Imager](https://www.raspberrypi.org/software/) then install [Raspberry Pi OS Lite](https://www.raspberrypi.org/software/operating-systems/#raspberry-pi-os-32-bit)
 
 ## Install packages needed
 ```
