@@ -4,7 +4,7 @@ Thsi project contain all data fo build theredfore configure Happi GardenPI
 ## Project structure
 
 ## Install OS
-(https://www.raspberrypi.org/documentation/installation/installing-images)[Installing operating system images]
+[Installing operating system images](https://www.raspberrypi.org/documentation/installation/installing-images)
 
 ## Install packages needed
 ```
