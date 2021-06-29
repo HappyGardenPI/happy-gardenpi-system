@@ -14,5 +14,5 @@ Thsi project contain all data fo build theredfore configure Happi GardenPI
 
 ## Install packages needed
 ```
-apt install mosquitto mosquitto-clients
+apt install mosquitto mosquitto-clients gdbserver
 ```
