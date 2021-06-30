@@ -12,7 +12,7 @@ Thsi project contain all data fo build theredfore configure Happi GardenPI
 ## Install OS
 [Installing operating system images](https://www.raspberrypi.org/documentation/installation/installing-images) by [Raspberry Pi Imager](https://www.raspberrypi.org/software/) then install [Raspberry Pi OS Lite](https://www.raspberrypi.org/software/operating-systems/#raspberry-pi-os-32-bit)
 
-## Install packages needed
+## Install packages needed in Raspeberry PI Zero W
 ```
-apt install mosquitto mosquitto-clients gdbserver
+apt install mosquitto mosquitto-clients gdbserver 
 ```
