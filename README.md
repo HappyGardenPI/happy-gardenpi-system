@@ -30,6 +30,7 @@ sudo nano /etc/mosquitto/conf.d/default.conf
 ```
 This should open an empty file. Paste in the following:
 ```
+listener 1883
 allow_anonymous false
 password_file /etc/mosquitto/passwd
 ```
